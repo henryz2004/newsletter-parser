@@ -183,8 +183,7 @@ def _md_to_html(md_text: str) -> str:
 <tr>
 <td style="padding:20px 40px 28px 40px; text-align:center;">
   <p style="margin:0; font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#999; line-height:1.5;">
-    Curated by Newsletter Intelligence Agent<br>
-    Powered by Claude &middot; Anthropic
+    Curated by Newsletter Intelligence Agent
   </p>
 </td>
 </tr>
